@@ -1,0 +1,85 @@
+{
+    "monday": [
+        {
+            "time": "8:30AM-9:55AM",
+            "lecture": "Computer Systems Organization (CSO)",
+            "Professor": "Praveen Paruchuri, Deepak Gangadharan"
+        },
+        {
+            "time": "10:00AM-11:25AM",
+            "lecture": "Introduction to IoT",
+            "Professor": "Kavitha Vemuri, Suresh Purini"
+        },
+        {
+            "time": "11:30AM-12:55PM",
+            "lecture": "Introduction to Spatial Sciences",
+            "Professor": "RC Prasad, KS Rajan"
+        }
+    ],
+    "tuesday": [
+        {
+            "time": "8:30AM-9:55AM",
+            "lecture": "Data Structures and Algorithms (DSA)",
+            "Professor": "Lini Thomas, Kshitij Gajjar"
+        },
+        {
+            "time": "11:30AM-12:55PM",
+            "lecture": "Linear Algebra (LA)",
+            "Professor": "Siddharta Das, Indranil Chakrabarty"
+        }
+    ],
+    "wednesday": [
+        {
+            "time": "8:30AM-9:55AM",
+            "lecture": "Introduction to Software Systems (ISS)",
+            "Professor": "Sai Anirudh Karre"
+        },
+        {
+            "time": "10:00AM-11:25AM",
+            "lecture": "Arts - 2",
+            "Professor": "Saroja TK (Coordinator)"
+        }
+    ],
+    "thursday": [
+        {
+            "time": "8:30AM-9:55AM",
+            "lecture": "Computer Systems Organization (CSO)",
+            "Professor": "Praveen Paruchuri, Deepak Gangadharan"
+        },
+        {
+            "time": "10:00AM-11:25AM",
+            "lecture": "Introduction to IoT",
+            "Professor": "Kavitha Vemuri, Suresh Purini"
+        },
+        {
+            "time": "11:30AM-12:55PM",
+            "lecture": "Introduction to Spatial Sciences",
+            "Professor": "RC Prasad, KS Rajan"
+        }
+    ],
+    "friday": [
+        {
+            "time": "8:30AM-9:55AM",
+            "lecture": "Data Structures and Algorithms (DSA)",
+            "Professor": "Lini Thomas, Kshitij Gajjar"
+        },
+        {
+            "time": "11:30AM-12:55PM",
+            "lecture": "Linear Algebra (LA)",
+            "Professor": "Siddharta Das, Indranil Chakrabarty"
+        }
+    ],
+    "saturday": [
+        {
+            "time": "8:30AM-9:55AM",
+            "lecture": "Introduction to Software Systems (ISS)",
+            "Professor": "Sai Anirudh Karre"
+        },
+        {
+            "time": "10:00AM-11:25AM",
+            "lecture": "Arts - 2",
+            "Professor": "Saroja TK (Coordinator)"
+        }
+    ],
+    "sunday": []
+}

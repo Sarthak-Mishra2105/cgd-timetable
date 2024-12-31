@@ -1,0 +1,105 @@
+{
+    "monday": [
+        {
+            "time": "9:35AM-10:30AM",
+            "lecture": "Computer Programming (CPro) - SH2",
+            "Professor": "Girish Varma, Abhishek Deshpande, Sandeep Nagar"
+        },
+        {
+            "time": "10:40AM-11:35AM",
+            "lecture": "Digital Systems and Microcontrollers (DSM) - SH2",
+            "Professor": "Anshu Sarje, Harikumar K, Anil Kumar Vuppala"
+        },
+        {
+            "time": "11:45AM-12:40PM",
+            "lecture": "Discrete Structures (DS) - SH2",
+            "Professor": "Srinathan K, Shantanav Chakraborty"
+        },
+        {
+            "time": "4:00PM-5:00PM",
+            "lecture":"DS Tutorial - H102",
+            "Professor": "TAs"
+        }
+    ],
+    "tuesday": [
+        {
+            "time": "11:45AM-12:40PM",
+            "lecture": "Spatial Thinking and Practice - H204",
+            "Professor": "KS Rajan"
+        },
+        {
+            "time": "3:30PM-5:00PM",
+            "lecture": "Value Education-1 [H] - H302",
+            "Professor": "Dr. Aniket Alam"
+        }
+    ],
+    "wednesday": [
+        {
+            "time": "9:35AM-10:30AM",
+            "lecture": "Computer Programming (CPro) - SH2",
+            "Professor": "Girish Varma, Abhishek Deshpande, Sandeep Nagar"
+        },
+        {
+            "time": "10:40AM-11:35AM",
+            "lecture": "Digital Systems and Microcontrollers (DSM) - SH2",
+            "Professor": "Anshu Sarje, Harikumar K, Anil Kumar Vuppala"
+        },
+        {
+            "time": "11:45AM-12:40PM",
+            "lecture": "Discrete Structures (DS) - SH2",
+            "Professor": "Srinathan K, Shantanav Chakraborty"
+        },
+        {
+            "time": "2:00PM-3:00PM",
+            "lecture":"DSM Tutorial - H202",
+            "Professor": "TAs"
+        },
+        {
+            "time": "4:00PM-5:00PM",
+            "lecture":"CPro Tutorial - H203",
+            "Professor": "TAs"
+        }
+    ],
+    "thursday": [
+        {
+            "time": "11:45AM-12:40PM",
+            "lecture": "Spatial Thinking and Practice - H204",
+            "Professor": "KS Rajan"
+        },
+        {
+            "time": "2:00PM-5:00PM",
+            "lecture": "CPro Lab - TL3",
+            "Professor": "TAs"
+        }   
+    ],
+    "friday": [
+        {
+            "time": "9:35AM-10:30AM",
+            "lecture": "Computer Programming (CPro) - SH2",
+            "Professor": "Girish Varma, Abhishek Deshpande, Sandeep Nagar"
+        },
+        {
+            "time": "10:40AM-11:35AM",
+            "lecture": "Digital Systems and Microcontrollers (DSM) - SH2",
+            "Professor": "Anshu Sarje, Harikumar K, Anil Kumar Vuppala"
+        },
+        {
+            "time": "11:45AM-12:40PM",
+            "lecture": "Discrete Structures (DS) - SH2",
+            "Professor": "Srinathan K, Shantanav Chakraborty"
+        },
+        {
+            "time": "2:00PM-5:00PM",
+            "lecture": "DSM Lab - Nilgiri 114",
+            "Professor": "TAs"
+        }
+    ],
+    "saturday": [
+        {
+            "time": "11:45AM-12:40PM",
+            "lecture": "Spatial Thinking and Practice - H204",
+            "Professor": "KS Rajan"
+        }
+    ],
+    "sunday": []
+}

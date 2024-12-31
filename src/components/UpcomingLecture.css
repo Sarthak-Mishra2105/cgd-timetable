@@ -1,0 +1,55 @@
+/* src/components/UpcomingLecture.css */
+
+.upcoming-lecture-container {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  
+  .upcoming-lecture-title {
+    font-size: 2.5rem;
+    color: var(--primary-color);
+    margin-bottom: 20px;
+  }
+  
+  .lecture-info {
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+  }
+  
+  .lecture-info.ongoing {
+    background-color: var(--ongoing-card-background-color); /* Updated */
+    color: #ffffff; /* Text color for better readability */
+  }
+  
+  .lecture-info.upcoming {
+    background-color: var(--secondary-color);
+    color: var(--background-color);
+  }
+  
+  .lecture-info h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--heading-color); /* Heading color */
+  }
+  
+  .lecture-time,
+  .lecture-Professor,
+  .lecture-subject {
+    font-size: 1.5rem;
+    margin-top: 10px;
+    color: #ffffff; /* Ensure text is white for ongoing lecture card */
+  }
+  
+  .no-ongoing-lecture-message,
+  .no-upcoming-lecture-message {
+    font-size: 1.5rem;
+    color: var(--text-color);
+  }
+  
